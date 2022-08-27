@@ -1,5 +1,5 @@
 # converters/converter_cls.py
-from ..model.builder import CONVERTERS
+from .builder import CONVERTERS
 
 # 使用注册器管理模块
 

@@ -10,9 +10,9 @@
             "request": "launch",
             "program": "${file}",
             "console": "integratedTerminal",
-            "env": {
-                "PYTHONPATH": "./"
-            },
+            // "env": {
+            //     "PYTHONPATH": "./"
+            // },
             "justMyCode": false
         }
     ]

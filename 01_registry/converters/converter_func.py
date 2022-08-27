@@ -1,5 +1,5 @@
 # converters/converter_func.py
-from ..model.builder import CONVERTERS
+from .builder import CONVERTERS
 from .converter_cls import Converter1
 
 
